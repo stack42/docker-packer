@@ -1,6 +1,6 @@
 FROM debian:stable-slim
 
-ENV PACKER_VERSION=1.3.5
+ENV PACKER_VERSION=1.5.1
 
 WORKDIR /
 
